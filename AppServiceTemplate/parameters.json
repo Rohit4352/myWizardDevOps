@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionId": {
+            "value": "d1000be4-4abb-4675-b709-04c98058ec17"
+        },
+        "name": {
+            "value": "onlinetrainingsystemakila704"
+        },
+        "location": {
+            "value": "Central US"
+        },
+        "hostingPlanName": {
+            "value": "onlinetrplanakila704"
+        },
+        "serverFarmResourceGroup": {
+            "value": "techversantdotnet"
+        },
+        "alwaysOn": {
+            "value": false
+        },
+        "sku": {
+            "value": "Shared"
+        },
+        "skuCode": {
+            "value": "D1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        },
+        "currentStack": {
+            "value": "dotnet"
+        },
+        "phpVersion": {
+            "value": "OFF"
+        },
+        "netFrameworkVersion": {
+            "value": "v4.0"
+        }
+    }
+}
