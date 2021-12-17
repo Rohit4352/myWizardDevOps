@@ -6,13 +6,13 @@
             "value": "d1000be4-4abb-4675-b709-04c98058ec17"
         },
         "name": {
-            "value": "onlinetrainingsystemakila704"
+            "value": ""
         },
         "location": {
             "value": "Central US"
         },
         "hostingPlanName": {
-            "value": "onlinetrplanakila704"
+            "value": ""
         },
         "serverFarmResourceGroup": {
             "value": "techversantdotnet"
