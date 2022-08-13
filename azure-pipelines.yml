@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: RohitAgentPool
+  name: GuptaAgentPool
 
 steps:
     - task: AzureResourceGroupDeployment@2
